@@ -1,0 +1,13 @@
+.nav-item{
+    margin-right: 50px;
+    display: flex;
+}
+body{
+    background-color: rgb(215, 241, 241);
+}
+.nav-link{
+    color: black;
+}
+img{
+    margin-left: 40px;
+}
